@@ -58,7 +58,7 @@ My work focuses on radio astronomy instrumentation, digital signal processing, a
 My work involves a diverse stack of hardware, scientific computing, and software development.
 
 Scientific Computing & Programming
-
+<!--
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite">
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dblack">
@@ -73,36 +73,26 @@ Scientific Computing & Programming
 <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite">
 <img alt="FORTRAN" src="https://img.shields.io/badge/FORTRAN-734F96%3Fstyle%3Dfor-the-badge%26logo%3Ddata:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRpdGxlPmZvcnRyYW48L3RpdGxlPjxwYXRoIGQ9Ik0zLjUyIDE2LjcybC0uNDQtMi4xNkw3LjUgMy4zMmwxLjQ4LS4wNEwuNDQgMTkuNWwtLjQ0IDIuMTYgNC4zMi0uODRMMTkuNTIgMjIuNjhsMS40OC0uMDQtNC40OC0xMS4xMi0uNDQtMi4xNi00LjMyLjg0TDE1LjI4IDMuMzJsMS40OC0uMDQtNC40OCAxMS4xMkwxMiAxNi41NmwtLjk2LjE2bC00LjY4LTguNTZsLS45Ni4xNiAzLjUyIDE2LjcybS44NC0xMS4yOEwzLjI4IDE2bC40NC0yLjE2bDEuMDgtLjE2bDQuNjggOC41Ni40NC0yLjIyTDguODQgOS4zbDEuMDgtLjE2bDQuNjggOC41Ni40NC0yLjIyTDEzLjIgOS4xMmwxLjA4LS4xNiAxLjA4IDYuNzZMNy43MiA0LjI0bC0uNDQgMi4yTDMuNzIgNS42bC42NC44NFoiLz48L3N2Zz4%3D%26logoColor%3Dwhite">
 </p>
+-->
 
 Hardware & Instrumentation
-
+<!--
 <p align="left">
 <img alt="FPGA" src="https://img.shields.io/badge/FPGA-D22851%3Fstyle%3Dfor-the-badge%26logo%3Dxilinx%26logoColor%3Dwhite">
 <img alt="DSP" src="https://img.shields.io/badge/Digital_Signal_Processing-00599C%3Fstyle%3Dfor-the-badge%26logo%3Ddsp">
 <img alt="GNURadio" src="https://img.shields.io/badge/GNU_Radio-00604E%3Fstyle%3Dfor-the-badge%26logo%3Dgnu%26logoColor%3Dwhite">
 <img alt="Soldering" src="https://img.shields.io/badge/Electronics_Prototyping-D00000%3Fstyle%3Dfor-the-badge%26logo%3Dsparkfun">
 </p>
-
+-->
 Web Development
-
+<!--
 <p align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack">
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D%3Fstyle%3Dfor-the-badge%26logo%3Dvue.js%26logoColor%3Dwhite">
+<img alt="JavaScript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
-
-📊 My GitHub Stats
-
-<p align="center">
-<a href="https://github.com/PranavSanghavi">
-<img align="center" src="https://github-readme-stats.vercel.app/api%3Fusername%3DPranavSanghavi%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2196F3%26text_color%3DD3D3D3%26icon_color%3D2196F3" alt="Pranav Sanghavi's GitHub Stats">
-</a>
-<a href="https://github.com/PranavSanghavi">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPranavSanghavi%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D2196F3%26text_color%3DD3D3D3" alt="Pranav Sanghavi's Top Languages">
-</a>
-</p>
-
+-->
 <p align="center">
 When I'm not building radio telescopes, you can find me making music, painting, or experimenting with a new recipe!
 </p>
