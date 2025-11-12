@@ -37,19 +37,19 @@ My work focuses on radio astronomy instrumentation, digital signal processing, a
 
 <p align="left">
 <a href="https://pranavsanghavi.com/">
-<img alt="Website" src="https://img.shields.io/badge/Website-pranavsanghavi.com-blue%3Fstyle%3Dfor-the-badge%26logo%3Dhome-assistant">
+<img alt="Website" src="">
 </a>
 <a href="mailto:pranav.sanghavi@cfa.harvard.edu">
-<img alt="Email" src="https://img.shields.io/badge/Email-pranav.sanghavi%40cfa.harvard.edu-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail">
+<img alt="Email" src="">
 </a>
 <a href="https://www.linkedin.com/in/pranavsanghavi">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pranavsanghavi-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin">
+<img alt="LinkedIn" src="">
 </a>
 <a href="https://twitter.com/PranavSanghavi">
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%40PranavSanghavi-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter">
+<img alt="Twitter" src="">
 </a>
 <a href="https://orcid.org/0000-0001-5504-229X">
-<img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--5504--229X-A6CE39%3Fstyle%3Dfor-the-badge%26logo%3Dorcid">
+<img alt="ORCID" src="">
 </a>
 </p>
 
