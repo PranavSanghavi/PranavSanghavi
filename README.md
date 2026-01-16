@@ -15,23 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Pranav 👋
+Hi there, I'm Pranav 
 
 I'm a Postdoctoral Fellow at the Center for Astrophysics | Harvard & Smithsonian, where i am helping a next-generation detector to help unravel the mysteries of Fast Radio Bursts (FRBs).
 
 My work focuses on radio astronomy instrumentation, digital signal processing, and high-performance scientific computing.
 
-🔭 About Me
+About Me
 
-🔬 Currently: Building the radio teelscopes at CfA and doing rad sciene.
+Currently: Building the radio teelscopes at CfA and doing rad sciene.
 
-🛰️ Previously: I was a Postdoctoral Associate at Yale University, working on the CHIME (Canadian Hydrogen Intensity Mapping Experiment) project.
+Previously: I was a Postdoctoral Associate at Yale University, working on the CHIME (Canadian Hydrogen Intensity Mapping Experiment) project.
 
-🎓 Ph.D.: I earned my Ph.D. from West Virginia University, where my dissertation involved building TONE, an interferometric array to localize FRBs to submilliarcsecond precision using Very Long Baseline Interferometry (VLBI).
+Ph.D.: I earned my Ph.D. from West Virginia University, where my dissertation involved building TONE, an interferometric array to localize FRBs to submilliarcsecond precision using Very Long Baseline Interferometry (VLBI).
 
-🧑‍🏫 Teaching & Outreach: I'm passionate about education and run the NSF-funded Digital Signal Processing in Radio Astronomy Research Experience for Teachers (DSPIRA) Site, teaching high school teachers practical radio astronomy and instrumentation.
+Teaching & Outreach: I'm passionate about education and run the NSF-funded Digital Signal Processing in Radio Astronomy Research Experience for Teachers (DSPIRA) Site, teaching high school teachers practical radio astronomy and instrumentation.
 
-⚡ Interests: Radio Astronomy Instrumentation, Fast Radio Bursts, VLBI, and Cosmology.
+Interests: Radio Astronomy Instrumentation, Fast Radio Bursts, and Cosmology.
 
 📫 How to Reach Me
 
@@ -53,9 +53,9 @@ My work focuses on radio astronomy instrumentation, digital signal processing, a
 </a>
 </p>
 
-🛠️ My Toolbox
+My Toolbox
 
-My work involves a diverse stack of hardware, scientific computing, and software development.
+My work involves a diverse mix of hardware, scientific computing, and software development.
 
 Scientific Computing & Programming
 <!--
